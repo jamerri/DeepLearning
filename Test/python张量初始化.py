@@ -37,3 +37,6 @@ print(x)
 input = torch.randn((3, 3))
 x = torch.rand_like(input)
 print(x)
+
+x = torch.zeros(5)
+print(x)
